@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am a highly motivated Trainee Python Developer with a strong passion for coding and problem-solving.<br>Dedicated to continuously expanding knowledge and skills in Python programming and related technologies.<br>Excellent teamwork and communication skills.<br>Seeking an opportunity to contribute to a dynamic organization and grow as a professional Python Developer.
+Hi! I am a highly motivated Python and Django Web Developer with a strong passion for coding and problem-solving.<br>Dedicated to continuously expanding knowledge and skills in Python programming and related technologies.<br>Excellent teamwork and communication skills.<br>Seeking an opportunity to contribute to a dynamic organization and grow as a professional Python Developer.
 
 
 ## 🌐 Socials:
